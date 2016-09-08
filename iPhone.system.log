@@ -1,0 +1,138 @@
+Sep  8 07:57:39 iPhone sharingd[31] <Notice>: 07:57:39.198 : BTLE scanning started
+Sep  8 07:57:39 iPhone sharingd[31] <Notice>: 07:57:39.199 : Scanning mode Contacts Only
+Sep  8 07:57:39 iPhone sharingd[31] <Notice>: 07:57:39.234 : BTLE scanner Powered On
+Sep  8 07:57:39 iPhone backboardd[64] <Notice>: [HID] [MT] MTSimpleHIDManager::setPropertyInternal detection mode: 255->6 (deferring until bootloaded)
+Sep  8 07:57:39 iPhone SpringBoard[48] <Warning>: [MPUSystemMediaControls] Enabling lock screen media controls updates for screen turning on.
+Sep  8 07:57:39 iPhone SpringBoard[48] <Warning>: [MPUSystemMediaControls] Updating supported commands for now playing application.
+Sep  8 07:57:39 iPhone backboardd[64] <Notice>: [HID] [MT] MTSimpleHIDManager::deviceDidBootload device bootloaded
+Sep  8 07:57:39 iPhone backboardd[64] <Notice>: [HID] [MT] MTSimpleHIDManager::setPropertyInternal detection mode: 6->6
+Sep  8 07:57:39 iPhone SpringBoard[48] <Notice>: -[UABestAppSuggestionManager notifyBestAppChanged:type:options:bundleIdentifier:activityType:dynamicIdentifier:when:confidence:deviceName:deviceIdentifier:deviceType:] (null) UASuggestedActionType=0 (null)/(null) opts=(null) when=2016-09-08 05:57:39 +0000 confidence=1 from=(null)/(null) (UABestAppSuggestionManager.m #327)
+Sep  8 07:57:40 iPhone pkd[147] <Warning>: assigning plug-in com.apple.stocks.widget(1.0) to plugin sandbox
+Sep  8 07:57:40 iPhone pkd[147] <Warning>: enabling pid=48 for plug-in com.apple.stocks.widget(1.0) 70701348-955E-4953-838A-992709769D31 /Applications/Stocks.app/PlugIns/StocksWidget.appex
+Sep  8 07:57:40 iPhone StocksWidget[295] <Warning>: host connection <NSXPCConnection: 0x15d61c30> connection from pid 48 invalidated
+Sep  8 07:57:40 iPhone StocksWidget[295] <Warning>: StocksPreferences shared container path: file:///private/var/mobile/Containers/Shared/AppGroup/662B94A7-68BB-4777-8178-7074A85B3BD8/
+Sep  8 07:57:41 iPhone StocksWidget[295] <Warning>: Not updating snapshot
+Sep  8 07:57:47 iPhone SpringBoard[48] <Warning>: plugin com.apple.stocks.widget invalidated
+Sep  8 07:57:48 iPhone pkd[147] <Warning>: assigning plug-in com.apple.stocks.widget(1.0) to plugin sandbox
+Sep  8 07:57:48 iPhone pkd[147] <Warning>: enabling pid=48 for plug-in com.apple.stocks.widget(1.0) 70701348-955E-4953-838A-992709769D31 /Applications/Stocks.app/PlugIns/StocksWidget.appex
+Sep  8 07:57:48 iPhone StocksWidget[295] <Warning>: host connection <NSXPCConnection: 0x15e623e0> connection from pid 48 invalidated
+Sep  8 07:57:48 iPhone StocksWidget[295] <Warning>: StocksPreferences shared container path: file:///private/var/mobile/Containers/Shared/AppGroup/662B94A7-68BB-4777-8178-7074A85B3BD8/
+Sep  8 07:57:48 iPhone StocksWidget[295] <Warning>: Not updating snapshot
+Sep  8 07:57:54 iPhone pkd[147] <Warning>: assigning plug-in com.apple.mobilecal.widget(1.0) to plugin sandbox
+Sep  8 07:57:54 iPhone pkd[147] <Warning>: enabling pid=48 for plug-in com.apple.mobilecal.widget(1.0) 42399190-1363-415D-B663-B0C69EDFDC03 /Applications/MobileCal.app/PlugIns/CalendarWidget.appex
+Sep  8 07:57:54 iPhone pkd[147] <Warning>: assigning plug-in com.apple.mobileme.fmf1.TodayWidget(1.0) to plugin sandbox
+Sep  8 07:57:54 iPhone pkd[147] <Warning>: enabling pid=48 for plug-in com.apple.mobileme.fmf1.TodayWidget(1.0) 6E2BEF91-9DAF-4DAF-A430-3B66447EE306 /Applications/FindMyFriends.app/PlugIns/FMFTodayWidget.appex
+Sep  8 07:57:54 iPhone CalendarWidget[202] <Warning>: host connection <NSXPCConnection: 0x14e73dc0> connection from pid 48 invalidated
+Sep  8 07:57:54 iPhone FMFTodayWidget[203] <Warning>: host connection <NSXPCConnection: 0x1758dc60> connection from pid 48 invalidated
+Sep  8 07:57:54 iPhone CalendarWidget[202] <Warning>: Unable to simultaneously satisfy constraints.
+       		Probably at least one of the constraints in the following list is one you don't want.
+       		Try this:
+       			(1) look at each constraint and try to figure out which you don't expect;
+       			(2) find the code that added the unwanted constraint or constraints and fix it.
+       	(
+       	    "<NSLayoutConstraint:0x14e32f40 V:|-(4)-[UIInputSetContainerView:0x14e30220]   (Names: '|':UITextEffectsWindowHosted:0x14e2b530 )>",
+       	    "<NSLayoutConstraint:0x14e32fa0 UIInputSetContainerView:0x14e30220.bottom == UITextEffectsWindowHosted:0x14e2b530.bottom>",
+       	    "<NSLayoutConstraint:0x14d27510 'UIInputWindowController-height' UIInputSetContainerView:0x14e30220.height == UITextEffectsWindowHosted:0x14e2b530.height>"
+       	)
+
+       	Will attempt to recover by breaking constraint
+       	<NSLayoutConstraint:0x14e32fa0 UIInputSetContainerView:0x14e30220.bottom == UITextEffectsWindowHosted:0x14e2b530.bottom>
+
+       	Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+       	The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+Sep  8 07:57:54 iPhone CalendarWidget[202] <Warning>: Unable to simultaneously satisfy constraints.
+       		Probably at least one of the constraints in the following list is one you don't want.
+       		Try this:
+       			(1) look at each constraint and try to figure out which you don't expect;
+       			(2) find the code that added the unwanted constraint or constraints and fix it.
+       	(
+       	    "<NSLayoutConstraint:0x14e32f40 V:|-(4)-[UIInputSetContainerView:0x14e30220]   (Names: '|':UITextEffectsWindowHosted:0x14e2b530 )>",
+       	    "<NSLayoutConstraint:0x14d2e820 'UIInputWindowController-top' V:|-(0)-[UIInputSetContainerView:0x14e30220]   (Names: '|':UITextEffectsWindowHosted:0x14e2b530 )>"
+       	)
+
+       	Will attempt to recover by breaking constraint
+       	<NSLayoutConstraint:0x14e32f40 V:|-(4)-[UIInputSetContainerView:0x14e30220]   (Names: '|':UITextEffectsWindowHosted:0x14e2b530 )>
+
+       	Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+       	The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+Sep  8 07:57:54 iPhone CalendarWidget[202] <Warning>: Unable to simultaneously satisfy constraints.
+       		Probably at least one of the constraints in the following list is one you don't want.
+       		Try this:
+       			(1) look at each constraint and try to figure out which you don't expect;
+       			(2) find the code that added the unwanted constraint or constraints and fix it.
+       	(
+       	    "<NSLayoutConstraint:0x14e34fd0 V:|-(4)-[UIInputSetContainerView:0x14e347a0]   (Names: '|':UIRemoteKeyboardWindowHosted:0x14d54ab0 )>",
+       	    "<NSLayoutConstraint:0x14e36290 'UIInputWindowController-top' V:|-(0)-[UIInputSetContainerView:0x14e347a0]   (Names: '|':UIRemoteKeyboardWindowHosted:0x14d54ab0 )>"
+       	)
+
+       	Will attempt to recover by breaking constraint
+       	<NSLayoutConstraint:0x14e34fd0 V:|-(4)-[UIInputSetContainerView:0x14e347a0]   (Names: '|':UIRemoteKeyboardWindowHosted:0x14d54ab0 )>
+
+       	Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+       	The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+Sep  8 07:57:54 iPhone FMFTodayWidget[203] <Warning>: Unable to simultaneously satisfy constraints.
+       		Probably at least one of the constraints in the following list is one you don't want.
+       		Try this:
+       			(1) look at each constraint and try to figure out which you don't expect;
+       			(2) find the code that added the unwanted constraint or constraints and fix it.
+       	(
+       	    "<NSLayoutConstraint:0x175914a0 V:|-(4)-[UIInputSetContainerView:0x1767e2d0]   (Names: '|':UITextEffectsWindowHosted:0x17597e90 )>",
+       	    "<NSLayoutConstraint:0x1759d5c0 'UIInputWindowController-top' V:|-(0)-[UIInputSetContainerView:0x1767e2d0]   (Names: '|':UITextEffectsWindowHosted:0x17597e90 )>"
+       	)
+
+       	Will attempt to recover by breaking constraint
+       	<NSLayoutConstraint:0x175914a0 V:|-(4)-[UIInputSetContainerView:0x1767e2d0]   (Names: '|':UITextEffectsWindowHosted:0x17597e90 )>
+
+       	Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+       	The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+Sep  8 07:57:54 iPhone FMFTodayWidget[203] <Warning>: Unable to simultaneously satisfy constraints.
+       		Probably at least one of the constraints in the following list is one you don't want.
+       		Try this:
+       			(1) look at each constraint and try to figure out which you don't expect;
+       			(2) find the code that added the unwanted constraint or constraints and fix it.
+       	(
+       	    "<NSLayoutConstraint:0x175a4f50 V:|-(4)-[UIInputSetContainerView:0x17696e00]   (Names: '|':UIRemoteKeyboardWindowHosted:0x17595640 )>",
+       	    "<NSLayoutConstraint:0x17598670 'UIInputWindowController-top' V:|-(0)-[UIInputSetContainerView:0x17696e00]   (Names: '|':UIRemoteKeyboardWindowHosted:0x17595640 )>"
+       	)
+
+       	Will attempt to recover by breaking constraint
+       	<NSLayoutConstraint:0x175a4f50 V:|-(4)-[UIInputSetContainerView:0x17696e00]   (Names: '|':UIRemoteKeyboardWindowHosted:0x17595640 )>
+
+       	Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+       	The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKit/UIView.h> may also be helpful.
+Sep  8 07:57:55 iPhone locationd[70] <Notice>: Location icon should now be in state 'Active'
+Sep  8 07:57:57 iPhone StocksWidget[295] <Warning>: StocksPreferences shared container path: file:///private/var/mobile/Containers/Shared/AppGroup/662B94A7-68BB-4777-8178-7074A85B3BD8/
+Sep  8 07:57:57 iPhone SpringBoard[48] <Warning>: plugin com.apple.mobileme.fmf1.TodayWidget invalidated
+Sep  8 07:57:57 iPhone SpringBoard[48] <Warning>: plugin com.philips.lighting.hue2.widget invalidated
+Sep  8 07:57:58 iPhone SpringBoard[48] <Warning>: plugin com.apple.mobilecal.widget invalidated
+Sep  8 07:57:59 iPhone timed[41] <Notice>: (Note ) CoreTime: Want active time in 41.40min. Need active time in 8333.07min. Remaining retry interval: 0.000000min.
+Sep  8 07:57:59 iPhone UserEventAgent[23] <Error>: validateAndAddDefaults(com.apple.timed): End Time (inf) > now (495007079.0) + BACKGROUND_TASK_AGENT_JOB_WINDOW_MAX_TIME_FROM_NOW_SEC (3024000.0) + BACKGROUND_TASK_AGENT_JOB_TIME_ERROR_MARGIN (300.0)
+Sep  8 07:57:59 iPhone timed[41] <Notice>: (Note ) CoreTime: Want active time in 41.45min. Need active time in 8333.12min. Remaining retry interval: 0.000000min.
+Sep  8 07:57:59 iPhone UserEventAgent[23] <Error>: validateAndAddDefaults(com.apple.timed): End Time (inf) > now (495007079.1) + BACKGROUND_TASK_AGENT_JOB_WINDOW_MAX_TIME_FROM_NOW_SEC (3024000.0) + BACKGROUND_TASK_AGENT_JOB_TIME_ERROR_MARGIN (300.0)
+Sep  8 07:57:59 iPhone timed[41] <Notice>: (Error) CoreTime: Error requesting proactive time check job
+Sep  8 07:57:59 iPhone timed[41] <Notice>: (Error) CoreTime: Error requesting proactive time check job
+Sep  8 07:58:00 iPhone timed[41] <Notice>: (Note ) CoreTime: Want active time in 41.48min. Need active time in 8333.14min. Remaining retry interval: 0.000000min.
+Sep  8 07:58:00 iPhone UserEventAgent[23] <Error>: validateAndAddDefaults(com.apple.timed): End Time (inf) > now (495007080.1) + BACKGROUND_TASK_AGENT_JOB_WINDOW_MAX_TIME_FROM_NOW_SEC (3024000.0) + BACKGROUND_TASK_AGENT_JOB_TIME_ERROR_MARGIN (300.0)
+Sep  8 07:58:00 iPhone timed[41] <Notice>: (Error) CoreTime: Error requesting proactive time check job
+Sep  8 07:58:01 iPhone timed[41] <Notice>: (Note ) CoreTime: Want active time in 41.49min. Need active time in 8333.16min. Remaining retry interval: 0.000000min.
+Sep  8 07:58:01 iPhone UserEventAgent[23] <Error>: validateAndAddDefaults(com.apple.timed): End Time (inf) > now (495007081.2) + BACKGROUND_TASK_AGENT_JOB_WINDOW_MAX_TIME_FROM_NOW_SEC (3024000.0) + BACKGROUND_TASK_AGENT_JOB_TIME_ERROR_MARGIN (300.0)
+Sep  8 07:58:01 iPhone timed[41] <Notice>: (Error) CoreTime: Error requesting proactive time check job
+Sep  8 07:58:03 iPhone SpringBoard[48] <Warning>: plugin com.apple.stocks.widget invalidated
+Sep  8 07:58:03 iPhone StocksWidget[295] <Warning>: host connection <NSXPCConnection: 0x15d62410> connection from pid 48 invalidated
+Sep  8 07:58:04 iPhone pkd[147] <Warning>: assigning plug-in com.philips.lighting.hue2.widget(1.0) to plugin sandbox
+Sep  8 07:58:04 iPhone pkd[147] <Warning>: enabling pid=48 for plug-in com.philips.lighting.hue2.widget(1.0) A38D6F00-F32F-4CD7-A9A0-965929C68EF9 /private/var/containers/Bundle/Application/E431F89B-AB75-45AB-BC61-B88CA353646C/WidgetIssue.app/PlugIns/Widget.appex
+Sep  8 07:58:04 iPhone pkd[147] <Warning>: assigning plug-in com.apple.stocks.widget(1.0) to plugin sandbox
+Sep  8 07:58:04 iPhone pkd[147] <Warning>: enabling pid=48 for plug-in com.apple.stocks.widget(1.0) 70701348-955E-4953-838A-992709769D31 /Applications/Stocks.app/PlugIns/StocksWidget.appex
+>>> Sep  8 07:58:04 iPhone Widget[325] <Warning>: host connection <NSXPCConnection: 0x16e87a60> connection from pid 48 invalidated
+Sep  8 07:58:04 iPhone StocksWidget[295] <Warning>: StocksPreferences shared container path: file:///private/var/mobile/Containers/Shared/AppGroup/662B94A7-68BB-4777-8178-7074A85B3BD8/
+Sep  8 07:58:04 iPhone StocksWidget[295] <Warning>: Not updating snapshot
+Sep  8 07:58:06 iPhone locationd[70] <Notice>: Location icon should now be in state 'Inactive'
+Sep  8 07:58:16 iPhone StocksWidget[295] <Warning>: host connection <NSXPCConnection: 0x15e41db0> connection from pid 48 invalidated
+Sep  8 07:58:16 iPhone SpringBoard[48] <Warning>: plugin com.apple.stocks.widget invalidated
+Sep  8 07:58:16 iPhone mediaserverd[44] <Notice>: 'FigPlayer - 46' (pid = 46) setting DiscoveryMode = DiscoveryMode_PresenceScan, currentDiscoveryMode = DiscoveryMode_None
+Sep  8 07:58:16 iPhone SpringBoard[48] <Warning>: [MPUSystemMediaControls] Updating supported commands for now playing application.
+Sep  8 07:58:16 iPhone SpringBoard[48] <Warning>: [MPUSystemMediaControls] Disabling lock screen media controls updates for screen turning off.
+Sep  8 07:58:16 iPhone backboardd[64] <Notice>: [HID] [MT] MTSimpleHIDManager::setPropertyInternal detection mode: 6->255
+Sep  8 07:58:16 iPhone kernel[0] <Notice>: AppleH4CamIn::setPowerStateGated: 1
+Sep  8 07:58:16 iPhone kernel[0] <Notice>: AppleH4CamIn::power_on_hardware
+Sep  8 07:58:17 iPhone sharingd[31] <Notice>: 07:58:17.069 : BTLE scanning stopped

@@ -1,0 +1,53 @@
+2016-09-08 08:09:06.835 Widget[592:12973] viewDidLoad
+2016-09-08 08:09:07.023 Widget[592:12973] viewWillAppear: 0
+2016-09-08 08:09:07.029 Widget[592:12973] viewDidAppear: 0
+2016-09-08 08:09:16.084 Widget[592:12973] buttonPressed
+2016-09-08 08:09:16.616 Widget[592:12973] buttonPressed
+2016-09-08 08:09:16.835 Widget[592:12973] buttonPressed
+2016-09-08 08:09:17.332 Widget[592:12973] buttonPressed
+2016-09-08 08:09:17.585 Widget[592:12973] buttonPressed
+2016-09-08 08:09:17.783 Widget[592:12973] buttonPressed
+2016-09-08 08:09:18.035 Widget[592:12973] buttonPressed
+2016-09-08 08:09:18.350 Widget[592:12973] buttonPressed
+2016-09-08 08:09:18.700 Widget[592:12973] buttonPressed
+
+--> Switching to Notifications and back
+
+2016-09-08 08:09:22.083 Widget[592:12973] buttonPressed
+2016-09-08 08:09:23.665 Widget[592:12973] buttonPressed
+2016-09-08 08:09:24.000 Widget[592:12973] buttonPressed
+2016-09-08 08:09:24.333 Widget[592:12973] buttonPressed
+2016-09-08 08:09:24.600 Widget[592:12973] buttonPressed
+2016-09-08 08:09:25.001 Widget[592:12973] buttonPressed
+2016-09-08 08:09:25.317 Widget[592:12973] buttonPressed
+2016-09-08 08:09:25.666 Widget[592:12973] buttonPressed
+
+--> Scrolling to top of Today
+
+2016-09-08 08:09:27.168 Widget[592:12973] viewWillDisappear: 0
+2016-09-08 08:09:27.245 Widget[592:12973] viewDidDisappear: 0
+
+--> Scrolled back here, tapped the button. No response
+
+--> Switching to Notifications, triggers host connection invalidated message
+
+2016-09-08 08:09:36.182 Widget[592:13135] host connection <NSXPCConnection: 0x14e82650> connection from pid 48 invalidated
+
+--> Switching to back to Today, triggers viewDidLoad
+
+
+2016-09-08 08:09:36.278 Widget[592:12973] viewDidLoad
+2016-09-08 08:09:36.384 Widget[592:12973] viewWillAppear: 0
+2016-09-08 08:09:36.389 Widget[592:12973] viewDidAppear: 0
+2016-09-08 08:09:39.944 Widget[592:12973] buttonPressed
+2016-09-08 08:09:40.329 Widget[592:12973] buttonPressed
+2016-09-08 08:09:40.528 Widget[592:12973] buttonPressed
+2016-09-08 08:09:40.729 Widget[592:12973] buttonPressed
+2016-09-08 08:09:40.929 Widget[592:12973] buttonPressed
+2016-09-08 08:09:41.112 Widget[592:12973] buttonPressed
+2016-09-08 08:09:41.312 Widget[592:12973] buttonPressed
+2016-09-08 08:09:41.512 Widget[592:12973] buttonPressed
+2016-09-08 08:09:41.679 Widget[592:12973] buttonPressed
+2016-09-08 08:09:41.879 Widget[592:12973] buttonPressed
+2016-09-08 08:09:42.062 Widget[592:12973] buttonPressed
+2016-09-08 08:09:42.279 Widget[592:12973] buttonPressed
